@@ -1,5 +1,10 @@
 🧠 Vita AI – Intelligent Disease Prediction System Using Symptoms
 
+<p align="center">
+  <img src="screens/Robo-Doc - Google Chrome 17-08-2024 20_47_30.png" width="600">
+</p>
+
+
 Vita AI is an AI-driven medical assistant built with Flask, NLP, and Machine Learning that predicts possible diseases from user-reported symptoms.
 It uses semantic and syntactic similarity, natural-language understanding (SpaCy + NLTK), and a KNN classifier trained on a medical dataset to provide accurate diagnostic suggestions, descriptions, severity analysis, and medical precautions.
 
